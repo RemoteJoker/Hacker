@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\RemoteJocker\Hacker\00_ancient_cpp\cpp_study\main.cpp(83,12): warning C4309: “初始化”: 截断常量值
+D:\RemoteJocker\Hacker\00_ancient_cpp\cpp_study\main.cpp(86,10): warning C4305: “初始化”: 从“double”到“float”截断
+  cpp_study.vcxproj -> D:\RemoteJocker\Hacker\00_ancient_cpp\cpp_study\x64\Debug\cpp_study.exe
